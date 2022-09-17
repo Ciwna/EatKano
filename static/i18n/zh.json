@@ -1,7 +1,7 @@
 {
   "lang": "zh",
   "start": "开始游戏",
-  "normal": "普通模式",
+  "normal": "普通墨墨",
   "endless": "无尽墨墨",
   "practice": "练习墨墨",
   "settings": "墨墨设置",
@@ -30,7 +30,7 @@
   "again": "重来",
   "home": "主页",
   "rank": "排行",
-  "repo": "仓库",
+  "repo": "不能点吓人的",
   "text-level-1": "试着好好练一下?",
   "text-level-2": "TCL",
   "text-level-3": "TQL",
